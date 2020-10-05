@@ -1,0 +1,25 @@
+#Box-1{
+    background-color: lightskyblue;
+    padding: 12px;
+    border: 15px solid red;
+    margin: 0px;
+    width: 122px;   
+}
+
+#Box-2{
+    background-color: lightskyblue;
+    padding: 12px;
+    border: 15px solid red;
+    margin: 0px;
+    margin-left: 176px;
+    width: 122px;
+}
+
+#Box-3{
+    background-color: lightskyblue;
+    padding: 12px;
+    border: 15px solid red;
+    margin: 0px;
+    margin-left: 352px;
+    width: 122px;
+}
