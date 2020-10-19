@@ -1,0 +1,16 @@
+body {
+    font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3em; /*100%=16px*/
+    text-align: justify;
+}
+
+h1 {
+    font-family: "Give You Glory", cursive;
+    font-size: 7rem;
+    width: 98%;
+    margin: 0 auto;
+}
+
+p {
+    font-family: "Nunito", sans-serif;
+}
